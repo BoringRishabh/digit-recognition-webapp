@@ -1,0 +1,48 @@
+body {
+    background-color: khaki;
+    touch-action: none;
+    font-family: "Roboto";
+  }
+  #author
+  {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    opacity: 90%;
+    align-items:flex-end;
+    display:flex;
+    align-items: center;
+  }
+  h3,p
+  {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size:large;
+    color:darkred;
+  }
+  h1 {
+    margin: 50px;
+    font-size: 50px;
+    font-family: fantasy;
+    text-align: center;
+  }
+  #paint {
+    border:3px solid brown;
+    margin: auto;
+  }
+  #predicted { 
+    font-size: 60px;
+    margin-top: 40px;
+    font-family: fantasy;
+    text-align: center;
+  }
+  #number {
+    border: 3px solid brown;
+    margin: auto;
+    margin-top: 30px;
+    text-align: center;
+    vertical-align: middle;
+  }
+  #clear {
+    margin: auto;
+    margin-top: 70px;
+    padding: 30px;
+    text-align: center;
+  }
